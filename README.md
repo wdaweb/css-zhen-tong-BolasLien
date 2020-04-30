@@ -1,2 +1,2 @@
-css作業
-畫出一個注射器
+# 用CSS畫一個針筒
+* 練習Before After的用法
